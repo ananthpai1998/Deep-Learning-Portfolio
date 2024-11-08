@@ -6,8 +6,8 @@ import numpy as np
 X = np.array([[0, 0], [0, 1], [1, 0], [1, 1]])
 y = np.array([0, 0, 0, 1])
 
-folder_to_save_frames = r'C:\Users\anant\Desktop\website repo\project_repo\Deep Learning Portfolio\perceptron\or_perceptron_frames'
-folder_to_save_gif='C:/Users/anant/Desktop/website repo/project_repo/Deep Learning Portfolio/perceptron/gif_outputs/or_perceptron.gif'
+folder_to_save_frames = 'folder_path_here'
+folder_to_save_gif='folder_path_here'
 
 # Create and train the perceptron
 

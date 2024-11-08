@@ -168,7 +168,7 @@ class MLP:
 # y = np.array([[0], [1], [1], [0]])
 
 
-# mlp = MLP(input_size=2, hidden_size=4, output_size=1, learning_rate=0.1, epochs=5000, use_bias=False, gif_folder_path=r'C:\Users\anant\Desktop\website repo\project_repo\Deep Learning Portfolio\perceptron\gifs')
+# mlp = MLP(input_size=2, hidden_size=4, output_size=1, learning_rate=0.1, epochs=5000, use_bias=False, gif_folder_path='folder_path_here')
 # mlp.train(X, y, animate=True)
 
 

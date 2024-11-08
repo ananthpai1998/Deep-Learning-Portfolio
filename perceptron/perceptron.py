@@ -93,5 +93,5 @@ class Perceptron:
 #     y = np.array([0, 0, 0, 1])
 
 #     # Create and train the perceptron
-#     perceptron = Perceptron(input_size=2, learning_rate=0.1, epochs=100, gif_folder_path=r'C:\Users\anant\Desktop\website repo\project_repo\Deep Learning Portfolio\perceptron\gifs')
+#     perceptron = Perceptron(input_size=2, learning_rate=0.1, epochs=100, gif_folder_path='folder_path_here')
 #     perceptron.train(X, y)
