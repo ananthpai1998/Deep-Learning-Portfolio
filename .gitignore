@@ -17,3 +17,7 @@ siamase-network/siamese_model.h5
 siamase-network/tes.pkl
 siamase-network/trs.pkl
 
+perceptron/xor_mlp_frames
+perceptron/xor_perceptron_frames
+perceptron/or_perceptron_frames
+perceptron/and_perceptron_frames
