@@ -21,3 +21,6 @@ perceptron/xor_mlp_frames
 perceptron/xor_perceptron_frames
 perceptron/or_perceptron_frames
 perceptron/and_perceptron_frames
+
+auto-encoder/autoencoder_model.h5
+auto-encoder/encoder_model.h5
